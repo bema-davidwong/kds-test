@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction>
+ <Order>
+       <ID>198</ID>
+       <PosTerminal>2</PosTerminal>
+ 	<TransType>1</TransType> 
+ 	
+       <OrderStatus>0</OrderStatus>
+       <OrderType>RUSH</OrderType> 
+       <ServerName>Jack</ServerName> 
+       <Destination>FastFoo'd</Destination>
+       <GuestTable>23</GuestTable>
+       <UserInfo>456</UserInfo>
+       <QueueMsg>Queue Msg</QueueMsg>
+	<PagerID></PagerID>
+    	<Item>
+      		<ID>10</ID>
+	       <TransType>1</TransType>
+      		<Name>3Pasta Salad'a Supreme</Name>
+      		<Category>55Monitor1</Category>
+      		<Quantity>10</Quantity>
+      		<Color BG="28" FG="200"></Color>
+		<KDSStation>1</KDSStation>
+	      <Condiment>
+	        	<ID>0</ID>
+	        	<TransType>1</TransType>
+	        	<Name>Spicy1</Name>
+	        	<Color  BG="48" FG="100"></Color>
+	        	<Action>1</Action> 
+
+	      </Condiment>
+            <Condiment>
+	        	<ID>1</ID>
+	        	<TransType>1</TransType>
+	        	<Name>Spicy2</Name>
+	        	<Color  BG="58" FG="70"></Color>
+	        	<Action>-1</Action> 
+	      </Condiment>
+       </Item>
+	<Item>
+		   <ID>11</ID>
+		   <TransType>1</TransType>
+		   <Name>1Pasta Salad Supreme</Name>
+		   <Category>Monitor2</Category>
+		   <Quantity>2</Quantity>
+		   <Color  BG="108" FG="120"></Color>
+		<KDSStation>1</KDSStation>
+		  <Condiment>
+		    	<ID>0</ID>
+		    	<TransType>1</TransType>
+		    	<Name>Spicy01</Name>
+		    	<Color  BG="128" FG="20"></Color>
+		    	<Action>1</Action> 
+		  </Condiment>
+		    <Condiment>
+		    	<ID>2</ID>
+		    	<TransType>1</TransType>
+
+		    	<Name>Spicy02 hide</Name>
+		    	<Color BG="8" FG="213"></Color>
+		    	<Action>-1</Action> 
+		  </Condiment>
+       </Item>
+	<Item>
+		   <ID>12</ID>
+		   <TransType>1</TransType>
+		   <Name>1Pasta Salad Supreme</Name>
+		   <Category>Monitor2</Category>
+		   <Quantity>2</Quantity>
+		   <Color  BG="108" FG="120"></Color>
+		<KDSStation>1</KDSStation>
+		  <Condiment>
+		    	<ID>0</ID>
+		    	<TransType>1</TransType>
+		    	<Name>Spicy01</Name>
+		    	<Color  BG="128" FG="20"></Color>
+		    	<Action>1</Action> 
+		  </Condiment>
+		    <Condiment>
+		    	<ID>2</ID>
+		    	<TransType>1</TransType>
+
+		    	<Name>Spicy02 hide</Name>
+		    	<Color BG="8" FG="213"></Color>
+		    	<Action>-1</Action> 
+		  </Condiment>
+       </Item>
+
+</Order>
+</Transaction>
+
